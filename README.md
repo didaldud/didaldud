@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3/>
+<img src="https://capsule-render.vercel.app/api?type=Slice&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3/>
 
 <br>
 <h3 align="center">📚 Tech stack 📚</h3>
