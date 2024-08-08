@@ -3,7 +3,6 @@
 <br>
 <h3 align="center">📚 Tech stack 📚</h3>
 <br>
-<img src="https://img.shields.io/badge/Java-bf2e24?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -25,9 +24,3 @@
    
  </div>
 <br>
-
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
