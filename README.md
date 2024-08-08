@@ -1,12 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20&fontSize=80" />
 
 <br>
-<h3 align="center">📚 Tech stack 📚</h3>
+<h3 align="center">📚 Languages and Tech stack 📚</h3>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23FF6666.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%23FFCC33.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Andoid-3DDC84?style=flat-square&logo=android studio&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
