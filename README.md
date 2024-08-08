@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20&fontSize=80" />
 
 <br>
-<h3 align="center">📚 Languages and Tech stack 📚</h3>
+<h3 align="center">📚 Tech stack 📚</h3>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
