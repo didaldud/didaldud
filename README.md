@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></div>
 <br>
-</div>
- <div align="center">🔨 Tools 🔨 </div>
+
+ <h3 align="center">🔨 Tools 🔨 </h3>
  <br>
  <div align="center">
    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
