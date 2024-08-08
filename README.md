@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Welcome%20&fontSize=80&rotate=+25&fontAlign=70)" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Welcome%20&fontSize=80&rotate=+25&fontAlign=10)" />
 
 
 <br>
